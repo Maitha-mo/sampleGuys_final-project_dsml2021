@@ -1,0 +1,4 @@
+step,customer,age,gender,merchant,category,amount,fraud
+0,Hergen,3,M,M480139044,es_health,300.26,1
+0,Nafitha,3,F,M480139044,es_health,200.0,0
+0,Maitha,2,F,Amazon,es_sportsandtoys,500.0,0
